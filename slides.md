@@ -46,10 +46,6 @@ drawings:
 <!--
 - Dank an Susanne.
 - Ich stelle nun die Lösung vor
-- Lösung für alles etwas hochtrabend
-  - Marketing freuen
-  - Rechtsabteilung den Kopf schütteln
-- neben den beiden Departments noch das IT Department mit meiner Wenigkeit
 -->
 
 ---
@@ -127,9 +123,8 @@ layout: two-cols
 </div>
 
 <!-- 
-- Vertrete die TU-Dresden
 - Hfm vertreten durch Susanne
-- TU-Dresden vertreten duch mich
+- TU-Dresden vertreten durch mich
 - Epfl in der Schweiz als Expertenfeedback
 - und und und
 - Rekapitulieren wir noch einmal das Problem
@@ -311,7 +306,7 @@ clicks: 5
 <img src="/assets/memes/what.jpg" class="absolute w-50 top-45 left-95" v-after />
 
 <!-- 
-- Informatik drauf werfen
+- zum Lösen könnte man nun Informatik drauf werfen
 - am besten noch Begriffe wie "KI" oder "Cloud" mit unterbringen, dann kommt schon etwas dabei raus
 - -> es kommt etwas heraus, was ggf niemand mehr versteht
 - Also aufdröseln und Schritt für Schritt
@@ -499,8 +494,9 @@ clicks: 5
 </div>
 
 <!--
-- Bpm: Accelerando & Ritardando
-- Dynamic: Crescendo & Decrescendo
+- Connectoren Bezeichnungen:
+  - bei Bpm `Accelerando` & `Ritardando`
+  - bei Dynamic `Crescendo` & `Decrescendo`
 -->
 
 ---
