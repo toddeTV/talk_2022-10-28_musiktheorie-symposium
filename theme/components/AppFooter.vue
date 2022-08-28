@@ -13,7 +13,7 @@ defineProps({
          :href="'https://' + (website || $slidev.configs.author.website)"
          target="_blank"
          class="mb-0 baseColor !border-b-0">
-          @{{ website || $slidev.configs.author.website }}</a>
+         <mdi-web class="baseColor mr-1" /> {{ website || $slidev.configs.author.website }}</a>
       <span>{{ $slidev.nav.currentPage }}</span>
     </div>
   </footer>

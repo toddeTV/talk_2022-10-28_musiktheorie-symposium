@@ -10,7 +10,21 @@
         <div>
           <mdi-arrow-right-thick />
         </div>
-        <div class="ml-2 mr-4">
+        <div class="ml-2 w-43">
+          FMADB unter:
+        </div>
+        <div>
+          <a href="https://fmadb.org/">https://fmadb.org/</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="w-full flex flex-row justify-start mt-15 ml-40">
+      <div class="flex flex-row text-xl">
+        <div>
+          <mdi-arrow-right-thick />
+        </div>
+        <div class="ml-2 w-43">
           Evaluation unter:
           <br>
           Deadline:
@@ -28,7 +42,7 @@
         <div>
           <mdi-arrow-right-thick />
         </div>
-        <div class="ml-2 mr-4">
+        <div class="ml-2 w-43">
           Slides unter:
         </div>
         <div>
