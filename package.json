@@ -1,0 +1,36 @@
+{
+  "name": "talk_2022-10-28_musiktheorie-symposium",
+  "version": "v0.0.0",
+  "description": "Slides for my the talk on 2022-10-28 at the Musiktheorie Symposium about FMADB.",
+  "license": "CC-BY-NC-ND-4.0",
+  "author": "Thorsten Seyschab <business@todde.tv> (https://todde.tv/)",
+  "contributors": [
+    {
+      "name": "Thorsten Seyschab",
+      "email": "business@todde.tv",
+      "url": "https://todde.tv/"
+    }
+  ],
+  "homepage": "https://github.com/toddeTV/talk_2022-10-28_musiktheorie-symposium",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toddeTV/talk_2022-10-28_musiktheorie-symposium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toddeTV/talk_2022-10-28_musiktheorie-symposium/issues"
+  },
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "devRemote": "slidev --open --remote",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "0.36.8",
+    "@slidev/theme-default": "0.21.2",
+    "@slidev/theme-seriph": "0.21.3"
+  },
+  "devDependencies": {
+    "typescript": "4.8.4"
+  }
+}
