@@ -2,7 +2,8 @@
 
 ## project overview
 
-This project contains the slides for my the talk on 2022-10-28 at the Musiktheorie Symposium* about FMADB.
+This project contains the slides for my talk on 2022-10-28 at the Musiktheorie Symposium* about FMADB.  
+The presented language is `German`, the repository and documentation language is `English`.
 
 *[https://www.hfmdd.de/hochschule/institute-einrichtungen/zentrum-fuer-musiktheorie](https://hfmdd.de/ (time schedule and talk overviews))
 

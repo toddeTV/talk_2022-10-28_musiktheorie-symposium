@@ -7,8 +7,6 @@ theme: seriph   # A more formal looking theme using Serif fonts
 title: 'Slidev'
 # titleTemplate for the webpage, `%s` will be replaced by the page's title
 titleTemplate: '%s - Slidev'
-# information for your slides, can be a markdown string
-info: false
 
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
@@ -33,6 +31,8 @@ remoteAssets: false
 selectable: true
 # enable slide recording, can be boolean, 'dev' or 'build'
 record: 'dev'
+# use UnoCSS
+css: unocss
 
 # information for your slides, can be a markdown string or boolean `false`
 info: |
@@ -40,9 +40,6 @@ info: |
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
-
-# use UnoCSS
-css: unocss
 
 # force color schema for the slides, can be 'auto', 'light', or 'dark'
 colorSchema: 'auto'
