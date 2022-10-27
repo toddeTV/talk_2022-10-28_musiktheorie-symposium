@@ -24,4 +24,8 @@
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "typescript.tsdk": "node_modules/typescript/lib",
   "volar.completion.preferredTagNameCase": "pascal",
+
+  // see: https://github.com/microsoft/vscode/issues/32840#issuecomment-389704418
+  // "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback', 'Noto Color Emoji'",
+  // "editor.fontFamily": "'Noto Sans Mono', 'monospace', monospace, 'Droid Sans Fallback', 'Noto Color Emoji'",
 }

@@ -72,6 +72,10 @@ pnpm run build
 pnpm run export
 ```
 
+### prisma schema to UML
+
+Uses [https://github.com/emyann/prisma-uml](prisma-uml) to convert the FMADB prisma schema to a UML diagram.
+
 ## FMADB
 
 //TODO add short project description here
