@@ -673,19 +673,3 @@ url: https://fmadb.org/
 ---
 
 <AppIntroLogoWithEvaluation />
-
----
-layout: cover
-background: /assets/susanne-slides/1.png
-dim: false
----
-<!--  -->
----
-layout: cover
-background: /assets/susanne-slides/2.png
-dim: false
----
-<!--  -->
----
-
-<AppIntroLogoWithEvaluation />
