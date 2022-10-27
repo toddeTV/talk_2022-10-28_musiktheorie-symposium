@@ -3,14 +3,9 @@
 
 <template>
   <div class="w-full h-full flex flex-col justify-center">
-    <div class="w-full flex flex-row justify-center">
-      <img src="/assets/fmadb_logo/v8/logo-light/logo-light_icon-text_h-256px.png" class="w-1/2" />
-    </div>
-    <div class="w-full flex flex-row justify-center pl-1/2" style="margin-left: -80px; font-size: 19px;">
-      <AppTextTypewriter text="The Film Music Analysis Database|Die Film Musik Analyse Datenbank" />
-    </div>
+    <AppIntroLogo />
 
-    <div class="w-full flex flex-row justify-center mt-15">
+    <div class="w-full flex flex-row justify-start mt-15 ml-40">
       <div class="flex flex-row text-xl">
         <div>
           <mdi-arrow-right-thick />
@@ -24,6 +19,21 @@
           <a href="https://evaluation.fmadb.org/">https://evaluation.fmadb.org/</a>
           <br>
           2022-11-06
+        </div>
+      </div>
+    </div>
+
+    <div class="w-full flex flex-row justify-start mt-15 ml-40">
+      <div class="flex flex-row text-xl">
+        <div>
+          <mdi-arrow-right-thick />
+        </div>
+        <div class="ml-2 mr-4">
+          Slides unter:
+        </div>
+        <div>
+          <mdi-github class="mr-2" />
+          <a href="https://github.com/toddeTV/talk_2022-10-28_musiktheorie-symposium" target="_blank">toddeTV/talk_2022-10-28_musiktheorie-symposium</a>
         </div>
       </div>
     </div>
