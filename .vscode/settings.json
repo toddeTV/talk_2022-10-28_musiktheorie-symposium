@@ -1,0 +1,31 @@
+{
+  "files.autoSave": "onFocusChange",
+  "npm.packageManager": "pnpm",
+  "eslint.packageManager": "pnpm",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "editor.rulers": [ 120 ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "editor.fontSize": 15,
+  "window.zoomLevel": 0.05,
+  "search.useIgnoreFiles": false,
+  "search.exclude": {
+    "**/dist": true,
+    "pnpm-lock.yaml": true,
+    "node_modules": true,
+  },
+  "[markdown]": {
+    "editor.wordWrap": "off"
+  },
+  "[css]":{
+    "editor.suggest.insertMode": "replace",
+  },
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "volar.completion.preferredTagNameCase": "pascal",
+
+  // see: https://github.com/microsoft/vscode/issues/32840#issuecomment-389704418
+  // "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback', 'Noto Color Emoji'",
+  // "editor.fontFamily": "'Noto Sans Mono', 'monospace', monospace, 'Droid Sans Fallback', 'Noto Color Emoji'",
+}
